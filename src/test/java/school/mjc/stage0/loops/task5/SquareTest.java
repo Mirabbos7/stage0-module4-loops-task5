@@ -38,6 +38,6 @@ class SquareTest extends BaseIOTest {
 
         square.printSquareFrom8s(0);
 
-        assertOutEquals("");
+        assertOutEquals("\n");
     }
 }
